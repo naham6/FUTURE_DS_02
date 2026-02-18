@@ -1,5 +1,4 @@
 # 📉 Customer Retention & Churn Analysis
-**Repository:** [FUTURE_DS_02](https://github.com/naham6/FUTURE_DS_02)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![Pandas](https://img.shields.io/badge/Library-Pandas-orange) ![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-green)
 
@@ -56,9 +55,21 @@ Based on the data, I recommend the following actions to the CEO/Product Team:
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 * **Environment:** Jupyter Notebook / Google Colab
 
-## 📂 Project Structure
-* `DSTASK2.ipynb`: The complete analysis code and commentary.
-* `pictures/`: Folder containing the visualization images.
-* `README.md`: Project summary and insights.
+## 🛠️ Tools Used
+* **Python:** Core language for analysis.
+* **Pandas:** Data manipulation, cleaning, and aggregation.
+* **Seaborn & Matplotlib:** Data visualization and dashboard creation.
+* **Google Colab:** Development environment.
 
----
+## 📂 Repository Structure
+```text
+├── pictures/                     # Stores the analysis images
+│   ├── churn_contract.png
+│   ├── churn_tenure.png
+│   ├── churn_price.png
+│   ├── churn_techsupport.png  
+│   ├── churn_internet.png
+│   └── churn_payment.png
+├── DSTASK2.ipynb                 # Main Python analysis notebook
+├── README.md                     # Project documentation
+└── WA_Fn-UseC_-Telco-Customer-Churn.csv # Dataset used for analysis
