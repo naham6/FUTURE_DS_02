@@ -1,6 +1,8 @@
 # 📉 Customer Retention & Churn Analysis
 
-![Python](https://img.shields.io/badge/Python-3.10-blue) ![Pandas](https://img.shields.io/badge/Library-Pandas-orange) ![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-green)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Libraries](https://img.shields.io/badge/Library-Pandas%20%7C%20Matplotlib%20%7C%20Seaborn-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 🔍 Business Scenario
 A telecommunications company is facing a high rate of customer churn (26.5%). The business team needs to understand **why customers are leaving** and **which segments are most at risk**.
